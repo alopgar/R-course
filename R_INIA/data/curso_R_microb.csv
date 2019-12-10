@@ -1,0 +1,8 @@
+Kingdom;Phylum;Class;Order;Family;Genus;Sam1;Sam2;Sam3;Sam4;Sam5;Sam6
+Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Rikenellaceae;Rikenellaceae RC9 gut group;5242.0;1597.0;0.0;2312.0;0.0;1994.0
+Bacteria;Firmicutes;Clostridia;Clostridiales;Ruminococcaceae;Ruminococcaceae_unclassified;101.0;0.0;0.0;2644.0;0.0;2415.0
+Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 2;2010.0;500.0;375.0;2602.0;4702.0;1343.0
+Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Tannerellaceae;Parabacteroides;0.0;505.0;648.0;0.0;952.0;482.0
+Bacteria;Bacteroidetes;Bacteroidia;Bacteroidales;Prevotellaceae;Prevotella 2;0.0;0.0;0.0;2383.0;4046.0;1122.0
+Archaea;Euryarchaeota;Thermoplasmata;Methanomassiliicoccales;Methanomethylophilaceae;Methanomethylophilaceae_unclassified;25.0;0.0;78.0;0.0;0.0;11.0
+Archaea;Euryarchaeota;Methanobacteria;Methanobacteriales;Methanobacteriaceae;Methanobrevibacter;15.0;1.0;7.0;0.0;2.0;19.0
